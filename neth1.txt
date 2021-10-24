@@ -1,0 +1,345 @@
+4 years in the Netherlands
+IT emigration
+Well, of course the mills. What did you expect?
+Well, of course the mills. What did you expect?
+I write this article mainly for myself: To speak and rethink the things that happen in my life. And the public because I did not find, I did not read or ignored something when I was preparing for moving.
+
+And there is a lot about money here.
+
+Disclaimer
+I decided to lower all the additional "in my experience" and "in my opinion." Please add them yourself when reading. In turn, I will be glad to hear about another experience.
+
+Who I was
+.NET Full-Stack, 7 years of development experience, 27 years of life in Minsk (Belarus), English almost B1 (but the real conversational A2 with stretch). I was registered on the website for Relocity, received the only option, passed the sides and accepted Offer. Six months later - moving with my wife and cat.
+
+Who I became
+Confident in your future man.
+
+So, enough. To interesting!
+
+Table of contents
+Because everyone is interesting.
+
+Development market. Companies
+
+Development market. People
+
+Development market. Money
+
+Development market. Hiring
+
+Law and state
+
+Accommodation
+
+Language
+
+People
+
+Medicine
+
+Children
+
+Money
+
+Advice
+
+Personal
+
+Development market. Companies
+As I said above, I moved after an interview with the only company, in fact, without knowing anything about the development market. After that, she looked like interviews, met people, twice changed the work and made a certain picture.
+
+After Minsk, it was a little unusual not to see outsourcing at all. By the way, a negative ratio is mainly to the outsource here: they do not believe that it works. So companies are mainly grocery and outstaff. Outstaffers often boil holes while they are looking for a permanent developer to the staff; The coolest Outstaff offices are attracted to prototyping and developing Mission-Critical systems.
+
+Many fingells of startups and just near-financial businesses, the E-Commerce sphere looks very ripe, many have already automated "ordinary" processes and solve advanced tasks. If the product is not technical in itself, then the company does not name themselves technological, as far as their software will be promoted. Conversely, many historically "physical" businesses understand that they need to become an IT company that just works in a certain niche. And as usual, someone successfully applies Hype techniques, someone is trying to adopt it, and someone earns on it. Agile is the most vivid example of such equipment.
+
+Work-Life Balance is shifted towards Life. When the customer in the United States has a problem with the problem, the developer from the United States is picking up in it on the night from Friday to Saturday, under the nearest anger-minded look of the Castomer. When Castomer's problem in the Netherlanada, the Castomer says to the developer: Well, already five hours, let's go tomorrow. And they go home dinner.
+It did not come up with me, I told Holland american me.
+
+(up)
+
+Development market. People
+The level of developers is lower than in Minsk, of course. Few burning specialists studying the Best Practice and at leisure reflecting on how to write perfect code. Work is a job, the house is always more important. But the attitude to work is responsible, the Dutch rarely chase tea or chatting longer than a couple of minutes. A couple of times during lunch outside the office, the Dutch said something like "for an hour of the day, it's time to go to work." Immigrants and outstaffers are naturally cooled in terms of skills - therefore, the circular outstaphers hire many immigrants.
+
+Many Brazilians and Russian-speaking, Europeans in the amount of many, but they are all from different countries. Hindus met amazingly little, but there are many of them here.
+
+The average age in IT is the same as in any other sphere - 30-50 years old, there is already a generation of programmers who retired. The deficit is quite serious, the search for a suitable person on the middle salary takes not one month.
+
+In general, the technical scrolls are cool, it is expected that if you have education and experience, you can do the "ordinary" job. But the understanding of the basic principles of development, such as organizing code and testing, find out almost everything. On some projects, the technical requirements are of course higher, but from this I only met trading and video trimming, and these directions are not interesting to me. Thus, it is very important for personal compliance; This is the main selection criterion and technically savings I had to suffer a lot, fading an interview with managers to attractive positions.
+
+As a result, solutions in Legacy are often striking with its naivety and confusion, but in one team rarely found frankly incompatible people.
+
+(up)
+
+Development market. Money
+Salary of the worker. I will call numbers in the euro, until taxes. In the Netherlands "Vacations" is 8% annual salary paid in May. Adjust them to numbers below. And within 5 years after moving, you can use the tax benefit of "30% ruling": 30% of salaries are not subject to taxes. Calculate everything here: thetax.nl.
+
+Example of calculation on thetax.nl. What is Social Security, I never understood.
+
+I own information on the market .NET and I know that Javistam offer 5-10% more. Well, I will talk about the specialties from 7-12 years of experience working in the international market. So...
+
+When I moved in 2017, my ZP 56.000 was already very medium. By 2019, the middle was around 60.000, good specials could get 70.000 fairly easy. Compensation above was already considered steep, but it is still possible not to be a rock star. Above 75.000 - in the overwhelming majority of cases, a lid or architect was required.
+
+Everything changes right now. Many of the office reveal the development centers in the Netherlands, and if earlier Bucking was a famous golden cell with bloated salaries and often toxic medium, then several other companies are already tightened to the club, warming up the market. However, this article explains everything.
+
+Very much local work as entrepreneurs, and not workers: it changes the structure of income and taxes. The feeling that the upper price range is occupied by local freelancers / outstopherals; This is consistent with the impression that the Dutch in all areas prefer local things global. Rates freelancers that I met, fluctuate from 60 to 100 euros per hour. I will not lie, how much it is clean, it will be very dependent on investments in insurance, which the hired worker receives automatically.
+
+Development market. Hiring
+Recruitment agencies work a lot and sometimes look. On all my interviews, in addition to the last, I got through them. The attitude is not very personalized: first time I tried to explain to them what my dream work is, but it turned out only in one case. Directly on vacancies responded three times: they answered two times right away, for the third time in 4 months. One recruiter said that vacancies for Dutch-speaking specialists were 10 times more than for English-speaking; I still have a little doubt about this, but learn language motivates. Talking with a recruiter, you can make a good picture of the market, but he can distort this picture: for example, to say "for your age and experience it is a lot, no one will pay so much", not a job in the details of this experience, just to simplify yourself work.
+
+Recruiters remove the najore cream from the market - from 10,000 to 30,000 for hiring.
+
+During a pandemic, a remote work is of course, it was difficult to find a complete remote to it. Now I most often hear that the norm will be 2-3 days a week in the office.
+
+Particularly working part-time working week - from 28 to 36 hours.
+
+Large companies pay pension contributions for an additional pension. In general, such a pension, if collecting it 50 years, with contributions of 150-300 per month will give 10,000-20,000 euros per year before taxes. Pure per month it will be around 650-1300. State pension - in the 800 district.
+
+After 3 years of work in one place, the contract automatically becomes constant, i.e. indefinite. It is problematic to dismiss the employee until the end of the contract is problematic, it is necessary to prove its uniformity in several stages. Accordingly, a permanent contract from the start is often served as a bonus. More popular for two other strategies - the first contract of 7-10 months, the second indefinite - or three per annum, but the third will automatically last to the permanent, so in reality it is two per annum.
+
+(up)
+
+Law and state
+Home Headache - Residence Permit (PermT). Its validity period is tied to the duration of the working contract and the extension of it every time I have stress. In principle, all the applications of Permca are the ability to return from outside Schengen, a device for work and mortgage design. If these things are planning as far as possible from the date of the end of Permta, you can do without excitement.
+
+Taxes. There are many of them, pay them very comfortable, and the thoughts "For what I pay to you taxes?" Does not arise. The income declaration is fill in an accountant for me, simply because in the first year its volume beat off all her hunt to engage in himself. According to rumors, submit a declaration of the species "I have everything as it was" is very simple. When the financial situation finds it, most likely I will cope myself, but so far the change of work, buying a house and the birth of a child complicate everything. So far, tax returns (temporarily broken wife, for buying a house, for postponing a pension independently) Introduce with the board of accountant (150 euros per year).
+
+Absolutely, the legislators were performed at almost immediately after our move. The validity of the tax discount for visiting specialists ("Ruling") has reduced from 8 to 5 years. Everything would have done it, but we made it retroactively, that is, and my wife, having an already approved Rouling for 8 years, still holding it out 5 years after moving. It was very unexpectedly and so far my biggest claim to the state.
+
+Policy is interested in, and this obviously affects the situation in the country - politicians work. The current "permanent" prime barely resisted in the chair this year, including because of the scandal with the tax service: several thousand families mistakenly accused of fraud and forced to return thousands of Eurores.
+
+
+Accommodation
+When we just moved, any apartment, except for quite social, seemed to be a bright comfortable housing of a happy man. This quickly passed, of course. Now there are any emotions only separately standing at home, farms, palaces ... and ships. In the town with our first apartment parked the sailboat of the beginning of the XX century, in which the owner constantly lives.
+
+There you can live through AirBNB
+There you can live through AirBNB
+For the first two years we lived on a rented apartment. Even in the first autumn it was hard to worry cold - the insulation was not very, so the treated constantly and strongly (reached up to 25 degrees on the thermostat to warm up everywhere). Now I began to catch myself that in the house is cold, but I'm not marzen. First of all, it is, of course, because of home clothes - she changed with shorts and t-shirts on his pants, a bike with a hood and woolen socks in winter. But the habit of cold has developed most likely due to sleep at 15-17 degrees. And in the new house in the bedroom there is no battery in general - and right.
+
+Housing prices are growing in front of: If at arrival (2017) I immediately climbed to monitor the market and was going to buy a good house in a row for 320.000-340,000, then two years later we paid 375.000 and I think it would be lucky. Now this house is not worth 400,000, but close.
+
+Houses are sold with a bargain to the rolling blind, and I can't even think of a less comfortable way of buying. Torg - the stressful moment of the whole process, after it everything is very easy and simple, if there are no serious problems with the house and sellers. If there is a permanent contract, the mortgage you just need to choose. If not a sorry for money on agents - then all the procedures will take in the amount of hours of 10 of your time, this is taking into account the time to read contracts.
+
+View from my living room. Find a cat.
+View from my living room. Find a cat.
+Own house gave feel that the rental apartment has great advantages. Find a specialist to make a small repair, difficult. Workers of almost all specialties are very in demand, as I was told because of their "Mora" in the crisis 2008-09. DIY takes a lot of time, and after a pair of exercises it became clear that this is not mine. Cleaning the territory and maintaining some kind of order takes a couple of days every month.
+
+Building density in the Netherlands is very high, the view from the window is higher - the rarity for inexpensive housing. Usually you are simply a fence and a neighbor's back courtyard behind the fence. Dutch individualists, so only in the most tight places (like the center of Amsterdam) you will not have a separate exit from the apartment to the street. Even in large apartment buildings, the apartments go to the common balcony, and the entrance to the apartment on the 3rd floor is often at the ground level - and behind it is a steep staircase.
+
+(up)
+
+Language
+English owns almost everything, for more than two years on fingers you can recalculate situations when he did not work. And the Dutch ... interesting. Sounds ugly. Not so complicated. Places grammatically similar to Russian; It also helps that in Russian many borrowing from Dutch. Courses are expensive, but to learn the language without courses you need to have a certain warehouse of character. In general, after four years of life, two months of courses and the year Duo Lingo, I can buy in the food market, badly explain to some kind of household situation, to disassemble 10-40% of what colleagues say, and constantly snatch familiar phrases from Radio broadcast. The developer can live without Dutch. But - sad. All kinds of automated systems (a lot of companies use chat bots and phone menus on the first line of support), letters, instructions and just talking around you want to understand and not steam with the translation, which, by the way, the Google is far from the ideal.
+
+
+People
+Home For me, the feature of the Dutch - the manner of talking in the forehead of unpleasant things; When it makes surprise, there are very peculiar feelings. We (and everywhere, I think it is not for me) is completely not accepted to talk to an unfamiliar person "In this shirt you look old, you should change it. The color is good, but the texture is terrible, and with other buttons it would be better." And this is an indicator of a good attitude to you: sincere and useful Fidbeck. Get used to this difficult.
+
+The second interesting feature is "circularity" of relationships. Someone else remembers Google Plus with his circles? Here the Dutch is clearly dividing friends into circles and will not call a friend from the university to a party with friends from school. Home to invite friends is not accepted, for this there are bars and clubs in interest. At the same time, with acquaintances, they communicate very joyfully and friendly, but unusual. Two people at the meeting are hugging and expressing a huge delight, after a minute of conversation to move away by 10 meters and behave as if nothing happened.
+
+The third most feature is common to many Europeans: they are very slowly growing. People 20-25 years old are completely children in relation to life and behavior, more comfortable to communicate with people for 15-20 years older than me.
+
+These three things are very disturbing the introvert to fall with local and tie some durable social ties. Loneliness and isolation - popular problems of expatov, and here they can fully manifest. And it is easier to be in isolation if you moved with your family - a longeon will actively look for communication and it will be easier for him to fit somewhere.
+
+My wife with the Dutch is hard, and a closed circle formed. She could find suitable friends in clubs in interests, but you need to speak in Dutch. And the desire to learn the language disappears due to the fact that unsuitable people in the wild more, and they annoy.
+
+This is all the jokes, but about the Dutch uncle is plausible.
+This is all the jokes, but about the Dutch uncle is plausible.
+The other day the story happened, which I can not digest. A neighbor with whom we are two years limited by hand by hand * and rare conversations about the weather, called the door.
+
+- Hello-hello. I'll wash the tile tomorrow before my house.
+- Yeah? * What does he need? I remove the car? *
+- I thought that could I wash in front of your home too?
+- Eeee * Eeee *
+- We once bought to send with the neighbors Kercher and soap all together, but now everyone has its own and [La La La] ...
+- Yyyy ... * so. Mom prepared you for this situation, say "No, no matter what you!" *
+
+It all ended well, I just washed the tile by its compressor. The best way to spend morning, very meditative business. And I love the driver.
+
+* By the way about handmade. A clogged Belarus in a small NeighborHood (this word is not translated) It is difficult to watch somewhere except the Earth - it is necessary to look at a person inadvertently and it will feel friendly to you, forcing urgently to pretend that you actually watched. It works including when you peacefully enjoy the view from your large windows on the first floor.
+
+(up)
+
+Medicine
+General practitioners exist only to reduce the costs of tests and specialists, it is felt at each visit. Our first doctor was also not a very pleasant person, which did not help. Hospital getting into the hospital after several no-incursing complaints was a friend. But Paramedics work quickly, so there is chances to survive. With pregnant and newborn, this attitude changes dramatically: any appeal is considered very seriously and quickly, even if you just need to calm the excitement of pregnant. Recently, understanding a little better how it all works, we appeal to the doctor quite efficiently.
+
+Wife got into medical professionals all the time.
+
+Surgeon (in fact, Troy) removed the tooth of wisdom - scary, difficult, but without complications. Somehow you didn't even try to talk or talk - everything is only in the case and quickly.
+
+The consultation of another surgeon after the hand fracture would be useless if the wife herself did not ask about physiotherapy and everything you need for recovery.
+
+During pregnancy because of a small anomaly, her child was sent to the ultrasound to the doctor. The gynecologist of the university hospital was very pleasant, everything showed and told. I do not know, however, how good it would find a problem - we didn't have it in the end.
+
+Dentists come across bad, we only found a normal attempt. The site with the rating of doctors and medical institutions helps a lot.
+
+I always pass the way, actively shields heads around. I did it for a number of reasons - starting from "not to create inconvenience to a man behind the wheel" and ending with a banal "do not die." But recently, a new reason pierced my consciousness and showed what I learned after moving. "If the car feels you, you will walk, but if the knee growls crookedly and it will slow down - no one is replenished."
+
+Children
+I can talk about your child for hours and how good the children here, but I will not. The view that Dutch children are the happiest takes place.
+
+My child is not two, so there is a bit information.
+
+kindergarten from three months (approximately so much childcare leave remains at the mother after childbirth);
+
+In kindergarten 2-3 educators on 4-8 children (for children up to a year, be sure to have one teacher for every two children);
+
+It is an expensive kindergarten: approximately 8.50 per hour, usually 11 hours a day.
+
+kindergarten is compensated if both parents work (the amount of compensation depends on the salary and employment of the least busy, in our case does not exceed 35%);
+
+For each child under 18 years old is issued a pack - 221 euros per quarter;
+
+playgrounds everywhere, normal European quality;
+
+You can move from the carriage everywhere. In general, everywhere - we walked along the forest (well, yes, well, yes, such a forest there);
+
+(up)
+
+Money
+I will not strongly rant. I will say what to live is expensive, the salary of one Aytishnik is not enough (technically enough, but too much would have to refuse himself). And I will show our family budget (2 adults and a year old child).
+
+Monhly Fixed
+
+Liability Insurance.
+
+€ 6.23
+
+Spotify
+
+€ 10.00
+
+Gas & Energy.
+
+€ 122.00
+
+Mobile
+
+€ 17.50
+
+Internet
+
+€ 47.00
+
+Bank Accounts.
+
+€ 5.40
+
+Water.
+
+€ 22.00
+
+Car Insurance
+
+€ 40.00
+
+House Insurance.
+
+€ 22.00
+
+Car Tax
+
+€ 40.00
+
+Life Insurance.
+
+€ 15.00
+
+Childcare.
+
+€ 1,605.00
+
+Mortgage.
+
+€ 1,118.00
+
+MONTHLY PUT ASIDE.
+
+Health Insurance
+
+€ 250.00
+
+Homeowner Tax
+
+€ 59.17
+
+Water Tax
+
+€ 30.00
+
+Health & Beauty
+
+€ 140.00
+
+Hobby
+
+€ 229.00
+
+Vacation.
+
+€ 300.00
+
+Outings.
+
+€ 200.00
+
+Savings
+
+€ 200.00
+
+Monhly Variable.
+
+Public Transport.
+
+€ 50.00
+
+Parking.
+
+€ 20.00
+
+Groceries.
+
+€ 550.00
+
+Fuel
+
+€ 60.00
+
+Clothes.
+
+-
+
+Home & Garden.
+
+-
+
+Devices.
+
+-
+
+Total
+
+€ 5,158.30
+
+(up)
+
+Covers
+Communicate with a partner. Discuss goals, mailstones and return conditions, do not allow default and do not imply. If one of you is hard, but there is no second, the first can silent and accumulate suffering. It will not lead to anything good.
+
+Honestly answer the question "How many communication do I need?". Spend an experiment, insulace from friends for a while. It may turn out to be that "a man's laughter who does not need anyone for whom all the swelling of human society is a scolding anecdote. Which is in life alone and quite satisfied with it" - it's not about you. And then the relocation will be pain.
+
+In everything, it concerns papers, laws and procedures to nobody believe, find out everything yourself, check and recheck. It goes against the overall feeling of comfort and safety, but specific people can substitute very specifically, just on pretablism. And it will be impossible to correct some things. If someone does not make what is obliged by law - it is better to know that to defend their rights.
+
+(up)
+
+Personal
+Hard. It's hard to live when everything around is someone else's unusual. When you do not understand people in every sense. When you feel alternately, then the tourist is defective. Cool. Cool to live when everything around is new and unusual. When you do not understand how the whole previous life lived without basic amenities. When you feel that tourist, then the character was pastorly, then a fool on walking.
+
+This is Texel, or Tessel. Or Tessel.
+This is Texel, or Tessel. Or Tessel.
+I am delighted with the area in which we lived two years - Wormerland / Zaanstad. Bicycle rugs on the fields and villages "like in the picture", walks along the town of 17th century, the trips to Texel cause completely indelible feelings. And what is the saddle, now I understand how such feelings could be survived in Belarus. Where and how to go and what to do to penetrate this ... to all. The secret in relation to the usual habitat as an infinite vacation, to each walk - how to campaign in a new interesting place.
+
+I quietly happy in the town where we bought the house - HoofdDorp. He is very young, and designed to live people. I even have nothing to add, because "convenient" for me is usually opposite to "beautifully" or "cool" - and I prefer to live comfortably.
+
+Sometimes I miss the feeling of the king of life and the highest creature, which inevitably develops in the Minsk Aytichnik. But it passes when I remember how almost everything is organized here. This is a thousand little things that make my life safer, healthier, more pleasant, more convenient or simply comply with the principle of the smallest surprise (Pola).
+
